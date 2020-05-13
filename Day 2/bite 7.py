@@ -1,4 +1,4 @@
-In this bite we will look at this small server log finding the first and last system shutdown events:
+# In this bite we will look at this small server log finding the first and last system shutdown events:
 
 # INFO 2014-07-03T23:27:51 supybot Shutdown initiated.
 # ...
